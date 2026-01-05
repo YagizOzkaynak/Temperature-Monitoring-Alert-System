@@ -44,3 +44,7 @@ Hardware Connections
     ADC: NTC Thermistor connected to the analog input.
 
     LCD: Connected via standard 4-bit or 8-bit parallel interface.
+![WhatsApp Image 2026-01-04 at 3 35 09 PM](https://github.com/user-attachments/assets/a1599ec4-fca4-44db-9825-d210132275aa)
+![WhatsApp Image 2026-01-04 at 3 34 49 PM](https://github.com/user-attachments/assets/13c07a15-bb0f-43c1-b5a6-363d1156f453)
+![WhatsApp Image 2026-01-04 at 3 34 29 PM](https://github.com/user-attachments/assets/c6000add-b6a3-44c2-9dee-2520d2ba7df7)
+![WhatsApp Image 2026-01-04 at 3 34 11 PM](https://github.com/user-attachments/assets/17cec45d-cbda-4003-a628-2c41b740e111)
